@@ -1,0 +1,120 @@
+1
+500
+dijkstra time: 966.111
+floyd-warshall time: 520.681
+2
+550
+dijkstra time: 1232.95
+floyd-warshall time: 695.974
+3
+600
+dijkstra time: 1593.66
+floyd-warshall time: 918.166
+4
+650
+dijkstra time: 2037.08
+floyd-warshall time: 1170.07
+5
+700
+dijkstra time: 2513.74
+floyd-warshall time: 1572.26
+6
+750
+dijkstra time: 3127.23
+floyd-warshall time: 1825.83
+7
+800
+dijkstra time: 3884.41
+floyd-warshall time: 2211.11
+8
+850
+dijkstra time: 4492.75
+floyd-warshall time: 2682.05
+9
+900
+dijkstra time: 5326.31
+floyd-warshall time: 3155.29
+10
+950
+dijkstra time: 6242.1
+floyd-warshall time: 3755.91
+11
+500
+dijkstra time: 1077.54
+floyd-warshall time: 545.877
+12
+550
+dijkstra time: 1436.77
+floyd-warshall time: 724.955
+13
+600
+dijkstra time: 1868.99
+floyd-warshall time: 952.678
+14
+650
+dijkstra time: 2386.14
+floyd-warshall time: 1208.16
+15
+700
+dijkstra time: 3051.36
+floyd-warshall time: 1535.03
+16
+750
+dijkstra time: 3693.06
+floyd-warshall time: 1893.93
+17
+800
+dijkstra time: 4486.08
+floyd-warshall time: 2286.18
+18
+850
+dijkstra time: 5438.06
+floyd-warshall time: 2756.76
+19
+900
+dijkstra time: 6496.3
+floyd-warshall time: 3300.15
+20
+950
+dijkstra time: 7682.6
+floyd-warshall time: 3879.87
+21
+500
+dijkstra time: 1080
+floyd-warshall time: 523.716
+22
+550
+dijkstra time: 1387.4
+floyd-warshall time: 705.061
+23
+600
+dijkstra time: 1804.25
+floyd-warshall time: 910.351
+24
+650
+dijkstra time: 2285.6
+floyd-warshall time: 1180.38
+25
+700
+dijkstra time: 2848.7
+floyd-warshall time: 1482.6
+26
+750
+dijkstra time: 3506.8
+floyd-warshall time: 1836.13
+27
+800
+dijkstra time: 4251.57
+floyd-warshall time: 2233.39
+28
+850
+dijkstra time: 5100.73
+floyd-warshall time: 2659.19
+29
+900
+dijkstra time: 6028.15
+floyd-warshall time: 3173.61
+30
+950
+dijkstra time: 7042.92
+floyd-warshall time: 3751.36
